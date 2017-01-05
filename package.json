@@ -1,0 +1,17 @@
+{
+  "name": "lyric-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "google": "^2.1.0",
+    "telebot": "^1.0.6",
+    "yql": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
